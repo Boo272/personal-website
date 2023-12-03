@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdullah Masoud - Personal Webpage</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #6A9C89;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1,
+        h2 {
+            color: #6A9C89;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .goal {
+            font-weight: bold;
+        }
+
+        .skills {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .skills li {
+            margin-bottom: 8px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #6A9C89;
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Abdullah Masoud</h1>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p><strong>Date of Birth:</strong> October 15, 2006</p>
+        <p><strong>Address:</strong> New Damietta City / Damietta / Egypt</p>
+        <p><strong>Email:</strong> abdullah.masoud272@gmail.com</p>
+        <p><strong>Mobile:</strong> +201015261159</p>
+
+        <h2>Goal</h2>
+        <p class="goal">I aim to study a bachelor's degree in robotics to enhance my knowledge and technical capabilities,
+            with the aim of creating the largest robotics company in the Middle East to improve the future of humanity
+            through technology.</p>
+
+        <h2>Education</h2>
+        <p>I'm currently in the third year of secondary school. Here are some of my academic experiences:</p>
+        <ul>
+            <li>Participated in the 3 largest robotics competitions in the Middle East, including the Arab Open Robotics
+                Championship “FTC Competition”, where my Pirates team came in first place and won the INSPIRE AWARD
+                award.
+                <br>
+                <img src="FB_IMG_1657285620884.jpg" alt="Arab Open Robotics Championship Image" style="max-width: 100%; border-radius: 8px; margin-top: 10px;">
+            </li>
+            <li>Participated in the FIRST LEGO LEAGUE competition with the Robo Wizard team, and won the Judges Award.
+                <br>
+                <img src="FB_IMG_1655193499434.jpg" alt="FIRST LEGO LEAGUE Image" style="max-width: 100%; border-radius: 8px; margin-top: 10px;">
+            </li>
+            <li>Participating in the Rise for the World competition with the project “Helping the blind live a better
+                life with technology,” and qualifying for the finals.
+                <br>
+                <img src="photo_5920012935047003767_x.jpg" alt="Rise for the World Competition Image" style="max-width: 100%; border-radius: 8px; margin-top: 10px;">
+            </li>
+        </ul>
+
+        <h2>Skills</h2>
+        <ul class="skills">
+            <li>Leadership: Managing teams or groups, and my passion is being a leader in the Pirates team.</li>
+            <li>Perseverance: The ability to adapt in any circumstance.</li>
+            <li>Creativity: Solve problems in creative ways and generate new ideas.</li>
+            <li>Business abilities: Producing practical ideas and managing businesses.</li>
+        </ul>
+
+        <h2>Student Activities</h2>
+        <p>Volunteering: Donate my clothes annually to people in need.</p>
+
+        <h2>Hobbies and Interests</h2>
+        <p>My biggest hobbies are entrepreneurship and business. My goal is to create the largest robotics company to
+            support humans around the world.</p>
+
+        <h2>Languages</h2>
+        <p><strong>Arabic:</strong> Mother language</p>
+        <p><strong>English:</strong> Second language (B2 level)</p>
+    </section>
+
+    <footer>
+        <p>Designed with <span style="color: #6A9C89;">&#9829;</span> by Abdullah Masoud</p>
+    </footer>
+</body>
+
+</html>
